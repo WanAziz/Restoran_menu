@@ -1,0 +1,14 @@
+===========================
+Struk Pesanan
+===========================
+ - Ayam Bakar : 1
+ - es sirup : 2
+===========================
+Total Biaya : 96000
+===========================
+Selamat! Anda mendapatkan penawaran beli satu gratis satu untuk minuman
+===========================
+Pajak (10%) : 9600.0
+Biaya Pelayanan : 20.000
+===========================
+Biaya Akhir = 105600.0
